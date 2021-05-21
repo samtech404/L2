@@ -42,6 +42,19 @@ http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-2)
 http://45.126.83.51/uq2663/h/h29/index.m3u8
 
+#EXTINF:-1,US: CNBC FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2295
+#EXTINF:-1,US: CNBC News
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/269129
+#EXTINF:-1,US: CNBC WORLD FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6431
+#EXTINF:-1,US: CNN FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/753
+#EXTINF:-1,US: CNN INTERNATIONAL HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/166630
+#EXTINF:-1,US: CNN News
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/225374
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNBC (US) (1)
 https://iptvcat.com/my_list/s/2521a50eb8d8dc5f40ce0e48406b7886.m3u8
 
