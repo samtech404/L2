@@ -61,21 +61,22 @@ http://iptvtree.net:8080/geniptv/4faed690fd/265887
 #EXTINF:-1,US: CMT HD
 http://iptvtree.net:8080/geniptv/4faed690fd/2294
 #EXTINF:-1,US: Colorado Springs FOX KXRM
-http://iptvtree.net:8080/geniptv/4faed690fd/198131
-#EXTINF:-1,US: Columbia NBC WIS
-http://iptvtree.net:8080/geniptv/4faed690fd/198324
-#EXTINF:-1,US: CNBC FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/2295
-#EXTINF:-1,US: CNBC News
-http://iptvtree.net:8080/geniptv/4faed690fd/269129
-#EXTINF:-1,US: CNBC WORLD FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/6431
+https://iptvcat.com/my_list/s/ff57f8cf2a742e4ae987b12464aded8e.m3u81
 #EXTINF:-1,US: CNN FHD
 http://iptvtree.net:8080/geniptv/4faed690fd/753
 #EXTINF:-1,US: CNN INTERNATIONAL HD
 http://iptvtree.net:8080/geniptv/4faed690fd/166630
 #EXTINF:-1,US: CNN News
 http://iptvtree.net:8080/geniptv/4faed690fd/225374
+
+#EXTINF:-1,US: CNBC
+https://iptvcat.com/my_list/s/67eb17a02ccd01c5a263785fc2654806.m3u8
+#EXTINF:-1,US: CNBC FHD
+https://iptvcat.com/my_list/s/40ff7a52319400aa3cd5072d8b5b1048.m3u8
+#EXTINF:-1,US: CNBC News
+https://iptvcat.com/my_list/s/c9436aab2ee8cc705523190b4eb4126a.m3u8
+#EXTINF:-1,US: CNBC WORLD FHD
+https://iptvcat.com/my_list/s/608e60ae2659ebf985ef46c86db41101.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW News (DE)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
