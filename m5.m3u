@@ -69,14 +69,34 @@ http://iptvtree.net:8080/geniptv/4faed690fd/166630
 #EXTINF:-1,US: CNN News
 http://iptvtree.net:8080/geniptv/4faed690fd/225374
 
-#EXTINF:-1,US: CNBC
-https://iptvcat.com/my_list/s/67eb17a02ccd01c5a263785fc2654806.m3u8
-#EXTINF:-1,US: CNBC FHD
-https://iptvcat.com/my_list/s/40ff7a52319400aa3cd5072d8b5b1048.m3u8
-#EXTINF:-1,US: CNBC News
-https://iptvcat.com/my_list/s/c9436aab2ee8cc705523190b4eb4126a.m3u8
-#EXTINF:-1,US: CNBC WORLD FHD
-https://iptvcat.com/my_list/s/608e60ae2659ebf985ef46c86db41101.m3u8
+#EXTINF:-1,Bloomberg TV HD
+http://sofadad.co.uk:80/Faz/Faz1/79782
+#EXTINF:-1,Bravo East HD
+http://sofadad.co.uk:80/Faz/Faz1/79783
+#EXTINF:-1,Bravo West HD
+http://sofadad.co.uk:80/Faz/Faz1/79784
+#EXTINF:-1,Buzzr
+http://sofadad.co.uk:80/Faz/Faz1/79785
+#EXTINF:-1,CBS HD
+http://sofadad.co.uk:80/Faz/Faz1/79789
+#EXTINF:-1,CBSN
+http://sofadad.co.uk:80/Faz/Faz1/79788
+#EXTINF:-1,Cheddar
+http://sofadad.co.uk:80/Faz/Faz1/79787
+#EXTINF:-1,CMT HD
+http://sofadad.co.uk:80/Faz/Faz1/79793
+#EXTINF:-1,CNBC HD
+http://sofadad.co.uk:80/Faz/Faz1/79792
+#EXTINF:-1,CNBC World HD
+http://sofadad.co.uk:80/Faz/Faz1/79791
+#EXTINF:-1,CNN HD
+http://sofadad.co.uk:80/Faz/Faz1/79790
+#EXTINF:-1,CNN International
+http://sofadad.co.uk:80/Faz/Faz1/79805
+#EXTINF:-1,Comet TV
+http://sofadad.co.uk:80/Faz/Faz1/79802
+#EXTINF:-1,Cozi TV
+http://sofadad.co.uk:80/Faz/Faz1/79799
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW News (DE)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
