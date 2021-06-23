@@ -3,21 +3,6 @@
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
 https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW News (DE)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Sky News (UK)
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",Euronews (FR)
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
@@ -113,7 +98,20 @@ http://sofadad.co.uk:80/Faz/Faz1/79802
 #EXTINF:-1,Cozi TV
 http://sofadad.co.uk:80/Faz/Faz1/79799
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW News (DE)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Sky News (UK)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",Euronews (FR)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-1)
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist.m3u8
